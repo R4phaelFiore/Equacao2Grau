@@ -8,4 +8,5 @@
 
 - Não tem dependencias.
 - OpenSource.
+- Console Version.
 - Arquivo feito para fins de trabalho escolar
